@@ -8,6 +8,7 @@ Agile Development - Scrum Framework Study
     * Github Action을 이용한 CI(Continuous Integration)/CD(Continuous Delivery)
    
 #### 강의자료 및 참고문헌
+ * [마이클 카우프만 저, 최재웅 외 역, 깃허브로 완성하는 데브옵스 가속화, 에이콘, 2024] [http://www.acornpub.co.kr/book/devops-github]
  * [Scrum 강의자료] [https://github.com/2024TUKCOMSP/Overview/blob/main/ScrumFramework.pdf]
  * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
  * [애자일 소프트웨어 개발, SKPlanet TAcademy] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
